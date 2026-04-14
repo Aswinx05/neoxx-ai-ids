@@ -1,0 +1,5 @@
+{
+  "name": "NEOXX.AI - Network Intrusion Detection System",
+  "description": "A professional cybersecurity dashboard for detecting network intrusions using Random Forest machine learning models.",
+  "requestFramePermissions": []
+}
